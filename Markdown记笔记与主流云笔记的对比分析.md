@@ -2,6 +2,6 @@
 
 ## 1.数据主权
 
-markdown笔记
+markdown笔记采取
 
 &nbsp;
