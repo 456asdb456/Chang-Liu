@@ -6,7 +6,11 @@
 
 ## 缺点：
 
-当你把笔记发给朋友（他们没有 Obsidian），打开看到的有一堆markdown语法符号，看着挺难受
+当你把笔记发给朋友（他们没有 Obsidian），打开看到的有一堆markdown语法符号除非对方也熟悉 Markdown，否则没法直接阅读（看着挺难受）。、
+
+# 2.为什么用Obsidian
+
+&nbsp;
 
 &nbsp;
 
